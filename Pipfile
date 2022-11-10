@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 requests = "*"
 python-slugify = "*"
+markdownify = "*"
+black = "*"
 
 [dev-packages]
 
