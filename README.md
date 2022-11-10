@@ -1,4 +1,4 @@
-# Get Revue Issues
+# Revue
 
 Downloads your revue issues for offline storage. Just in case..
 
